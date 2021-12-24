@@ -98,6 +98,7 @@ elif TDEE == TongCalo:
     print('Hãy duy trì chế độ ăn này nhé.')
 else:
     print('Bạn nên giảm chế độ ăn của mình.')
+print('Kết thúc ngày')
 
 
 
